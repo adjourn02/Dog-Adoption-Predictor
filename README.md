@@ -1,4 +1,2 @@
-## Project for Master's of Science in Analytics at Georgia Institute of Technology 
-
-### Dog Adoption Predictor
-Using a data set from Austin Animal Center (https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238/about_data), I will build a classifier to predict dog adoptions. I have already created a subset of the original data to minimize storage and to focus on attributes that I want to further analyze. To be specific, I'm interested to see if age and breed are relevant factors in making decisions leading to dog adoption.
+## Dog Adoption Predictor
+Using a [dataset from Austin Animal Center](https://data.austintexas.gov/Health-and-Community-Services/Austin-Animal-Center-Outcomes/9t4d-g238/about_data), I built a classifier to predict dog adoptions from this shelter. I created a subset of the original dataset which focuses on relevant attributes such as age and breed. These features will be used to model a Logistic Regression classifier which predicts adoption outcomes.
